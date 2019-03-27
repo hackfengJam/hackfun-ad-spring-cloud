@@ -12,6 +12,7 @@
     <modules>
         <module>ad-eureka</module>
         <module>ad-gateway</module>
+        <module>hackfun-ad-service</module>
     </modules>
 
     <name>hackfun-ad-spring-cloud</name>
